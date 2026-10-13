@@ -2,7 +2,7 @@ const mineflayer = require('@wp2508/mineflayer');
 
 function createBot() {
     const bot = mineflayer.createBot({
-        host: 'ondercraft.aternos.me', // <--- REEMPLAZA ESTO POR LA IP DE TU SERVER
+        host: 'pompano.aternos.host', // <--- REEMPLAZA ESTO POR LA IP DE TU SERVER
         port: 43616,                // Puerto predeterminado de Minecraft
         username: 'ONDERCRAFT',    // Nombre genérico del bot/NPC dentro del juego
         version: false              // Autodetecta la versión exacta del servidor (1.8 a 1.21+)
