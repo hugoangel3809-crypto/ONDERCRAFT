@@ -1,4 +1,4 @@
-const mineflayer = require('mineflayer');
+const mineflayer = require('@wp2508/mineflayer');
 
 function createBot() {
     const bot = mineflayer.createBot({
